@@ -10,7 +10,7 @@ public class Program
             BlogTitle = "Blog Title 1",
             BlogAuthor = "Blog Author 1",
             BlogContent = "Blog Content 1",
-            IsDeleted = false
+            IsDeleted = false,
         };
         BlogStruct blogStruct = new();
 

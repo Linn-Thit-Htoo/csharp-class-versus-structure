@@ -38,6 +38,8 @@ public class Program
         Console.WriteLine($"Blog Author: {blogStruct.BlogAuthor}");
         Console.WriteLine($"Blog Content: {blogStruct.BlogContent}");
         Console.WriteLine($"Is Deleted: {blogStruct.IsDeleted}");
+
+        Console.WriteLine("---------------------------------------");
     }
 
     public static void ChangeValues(BlogClass @blog)
